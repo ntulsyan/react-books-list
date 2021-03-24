@@ -8,7 +8,7 @@
 
 1. Write component and apis unit tests
 2. Write cleaner css (css variables, relative units ) and follow BEM CSS pattern.
-3. Added error handling across the app.
+3. Adding error handling across the app.
 
 ## Steps to run the app
 
